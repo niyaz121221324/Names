@@ -22,7 +22,7 @@
 
 1. Клонируйте репозиторий проекта:
    ```bash
-   git clone https://github.com/your-repository/names-analysis.git
+   git clone https://github.com/niyaz121221324/Names.git
    ```
 
 2. Перейдите в папку проекта:
